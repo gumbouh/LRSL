@@ -1,4 +1,6 @@
-# LRSL
+# Findings of EMNLP 2024 - LRSL
+**An implementation for [Logits Reranking via Semantic Labels for Hard Samples in Text Classification (LRSL)](https://aclanthology.org/2024.findings-emnlp.657.pdf)**
+
 This repository provides the implementation of **Logits Reranking via Semantic Labels for Hard Samples in Text
 Classification (LRSL)**, a method designed to enhance text classification performance, especially for hard samples, by leveraging label semantics and similarity-based reranking.
 
